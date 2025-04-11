@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\bin\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.exe
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\bin\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.deps.json
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\bin\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.runtimeconfig.json
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\bin\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\bin\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.pdb
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.AssemblyInfo.cs
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\refint\leetcode easy Merge Two Sorted Arrays.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.pdb
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\leetcode easy Merge Two Sorted Arrays.genruntimeconfig.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Merge Two Sorted Arrays\obj\Debug\net8.0\ref\leetcode easy Merge Two Sorted Arrays.dll
