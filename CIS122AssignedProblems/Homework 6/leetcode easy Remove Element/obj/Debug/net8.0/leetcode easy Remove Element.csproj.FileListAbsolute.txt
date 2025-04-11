@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\bin\Debug\net8.0\leetcode easy Remove Element.exe
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\bin\Debug\net8.0\leetcode easy Remove Element.deps.json
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\bin\Debug\net8.0\leetcode easy Remove Element.runtimeconfig.json
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\bin\Debug\net8.0\leetcode easy Remove Element.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\bin\Debug\net8.0\leetcode easy Remove Element.pdb
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\leetcode easy Remove Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\leetcode easy Remove Element.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\leetcode easy Remove Element.AssemblyInfo.cs
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\leetcode easy Remove Element.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\leetcode easy Remove Element.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\refint\leetcode easy Remove Element.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\leetcode easy Remove Element.pdb
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\leetcode easy Remove Element.genruntimeconfig.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Remove Element\obj\Debug\net8.0\ref\leetcode easy Remove Element.dll

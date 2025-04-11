@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\bin\Debug\net8.0\leetcode easy Needle in Haystack.exe
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\bin\Debug\net8.0\leetcode easy Needle in Haystack.deps.json
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\bin\Debug\net8.0\leetcode easy Needle in Haystack.runtimeconfig.json
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\bin\Debug\net8.0\leetcode easy Needle in Haystack.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\bin\Debug\net8.0\leetcode easy Needle in Haystack.pdb
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\leetcode easy Needle in Haystack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\leetcode easy Needle in Haystack.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\leetcode easy Needle in Haystack.AssemblyInfo.cs
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\leetcode easy Needle in Haystack.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\leetcode easy Needle in Haystack.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\refint\leetcode easy Needle in Haystack.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\leetcode easy Needle in Haystack.pdb
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\leetcode easy Needle in Haystack.genruntimeconfig.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy Needle in Haystack\obj\Debug\net8.0\ref\leetcode easy Needle in Haystack.dll

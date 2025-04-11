@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\bin\Debug\net8.0\leetcode easy SortArrayByParity.exe
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\bin\Debug\net8.0\leetcode easy SortArrayByParity.deps.json
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\bin\Debug\net8.0\leetcode easy SortArrayByParity.runtimeconfig.json
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\bin\Debug\net8.0\leetcode easy SortArrayByParity.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\bin\Debug\net8.0\leetcode easy SortArrayByParity.pdb
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\leetcode easy SortArrayByParity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\leetcode easy SortArrayByParity.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\leetcode easy SortArrayByParity.AssemblyInfo.cs
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\leetcode easy SortArrayByParity.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\leetcode easy SortArrayByParity.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\refint\leetcode easy SortArrayByParity.dll
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\leetcode easy SortArrayByParity.pdb
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\leetcode easy SortArrayByParity.genruntimeconfig.cache
+C:\Users\aaron\source\repos\leetcode problems\Homework 6\leetcode easy SortArrayByParity\obj\Debug\net8.0\ref\leetcode easy SortArrayByParity.dll
