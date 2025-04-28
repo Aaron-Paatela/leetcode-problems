@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\bin\Debug\net8.0\leetcode easy Baseball Game.exe
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\bin\Debug\net8.0\leetcode easy Baseball Game.deps.json
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\bin\Debug\net8.0\leetcode easy Baseball Game.runtimeconfig.json
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\bin\Debug\net8.0\leetcode easy Baseball Game.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\bin\Debug\net8.0\leetcode easy Baseball Game.pdb
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\leetcode easy Baseball Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\leetcode easy Baseball Game.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\leetcode easy Baseball Game.AssemblyInfo.cs
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\leetcode easy Baseball Game.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\leetcode easy Baseball Game.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\refint\leetcode easy Baseball Game.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\leetcode easy Baseball Game.pdb
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\leetcode easy Baseball Game.genruntimeconfig.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Baseball Game\obj\Debug\net8.0\ref\leetcode easy Baseball Game.dll

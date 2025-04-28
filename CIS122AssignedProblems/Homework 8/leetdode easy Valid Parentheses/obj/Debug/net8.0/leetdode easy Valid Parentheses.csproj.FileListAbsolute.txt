@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\bin\Debug\net8.0\leetdode easy Valid Parentheses.exe
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\bin\Debug\net8.0\leetdode easy Valid Parentheses.deps.json
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\bin\Debug\net8.0\leetdode easy Valid Parentheses.runtimeconfig.json
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\bin\Debug\net8.0\leetdode easy Valid Parentheses.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\bin\Debug\net8.0\leetdode easy Valid Parentheses.pdb
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\leetdode easy Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\leetdode easy Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\leetdode easy Valid Parentheses.AssemblyInfo.cs
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\leetdode easy Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\leetdode easy Valid Parentheses.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\refint\leetdode easy Valid Parentheses.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\leetdode easy Valid Parentheses.pdb
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\leetdode easy Valid Parentheses.genruntimeconfig.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetdode easy Valid Parentheses\obj\Debug\net8.0\ref\leetdode easy Valid Parentheses.dll

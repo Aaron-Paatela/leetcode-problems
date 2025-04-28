@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\bin\Debug\net8.0\leetcode easy Find Pivot Index.exe
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\bin\Debug\net8.0\leetcode easy Find Pivot Index.deps.json
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\bin\Debug\net8.0\leetcode easy Find Pivot Index.runtimeconfig.json
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\bin\Debug\net8.0\leetcode easy Find Pivot Index.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\bin\Debug\net8.0\leetcode easy Find Pivot Index.pdb
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\leetcode easy Find Pivot Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\leetcode easy Find Pivot Index.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\leetcode easy Find Pivot Index.AssemblyInfo.cs
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\leetcode easy Find Pivot Index.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\leetcode easy Find Pivot Index.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\refint\leetcode easy Find Pivot Index.dll
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\leetcode easy Find Pivot Index.pdb
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\leetcode easy Find Pivot Index.genruntimeconfig.cache
+C:\Users\aaron\source\repos\leetcode problems\CIS122AssignedProblems\Homework 8\leetcode easy Find Pivot Index\obj\Debug\net8.0\ref\leetcode easy Find Pivot Index.dll

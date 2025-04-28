@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "leetdode easy Valid Parentheses/1.0.0": {
+        "runtime": {
+          "leetdode easy Valid Parentheses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leetdode easy Valid Parentheses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
